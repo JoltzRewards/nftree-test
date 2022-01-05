@@ -33,7 +33,7 @@
 (define-constant START_BLOCK block-height)
 (define-constant CYCLE_LENGTH u5)
 (define-constant TICKETS_PER_BLOCK u10)
-(define-constant NFT_URL_PREFIX "https://nftrees.com/nfts/")
+(define-constant NFT_URL_PREFIX "https://https://nft-tree-stacks.netlify.app/output/")
 (define-constant ADMIN tx-sender)
 
 (define-map miners-at-block
